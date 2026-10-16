@@ -57,3 +57,8 @@ Se quiser conversar ou conhecer mais do meu trabalho:
 ---
 
 ⭐ Se este repositório foi útil ou interessante para você, considere deixar uma estrela!
+
+
+## 🎮 Projeto em destaque
+
+- [Pokédex Arena](./Pokedex-Arena/README.md) — sistema PHP/MySQL de treinadores, Pokémons e batalhas.
