@@ -42,23 +42,6 @@ Este repositório serve para:
 
 Este repositório será atualizado frequentemente com novos projetos, melhorias e refatorações. Conforme adquiro novos conhecimentos, os projetos também evoluem.
 
-## 🤝 Contribuições
-
-Caso tenha sugestões, ideias ou encontre algum problema, fique à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
-
-## 📫 Contato
-
-Se quiser conversar ou conhecer mais do meu trabalho:
-
-* GitHub: **seu-usuario**
-* LinkedIn: **seu-linkedin**
-* E-mail: **seu-email**
-
----
-
-⭐ Se este repositório foi útil ou interessante para você, considere deixar uma estrela!
-
-
 ## 🎮 Projeto em destaque
 
 - [Pokédex Arena](./Pokedex-Arena/README.md) — sistema PHP/MySQL de treinadores, Pokémons e batalhas.
